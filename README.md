@@ -18,13 +18,23 @@
     - RPG, FPS, TCG 가리는 종류가 없습니다
 - 수도쿠
 --- 
-
 컴퓨터 공학을 배워서 한 것들
 
 - [ ] 앱 개발하기
 - [ ] 사이트 만들기
 - [ ] 사이드 프로젝트
 - [x] 게임 클라이언트 뜯어서 확률 및 계산식 끔찍하다고 개발자 욕하기
+---
+배운 언어들/프레임워크
+
+1. Java
+2. C
+3. Python
+4. Ruby
+5. Racket
+
+1. Spring
+2. Flutter
 ---
 추천하는 노래
 [Common Sense](https://www.youtube.com/watch?v=o7gmcJeF4-U&list=RDo7gmcJeF4-U&start_radio=1)
